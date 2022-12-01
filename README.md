@@ -23,8 +23,9 @@ The purpose of this project is to investigate the impact on win rates of differe
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation was done via Excel
+2. Raw Data is being kept here [Data] within this repo.
+3. Data processing/transformation was done via Excel.
+4. Code is being kept here [Code] within this repo.
 5. Follow setup [instructions](Link to file)
 
 ## Contributing DSWG Members
